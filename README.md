@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Kishlay
 
-**Senior RPA Developer | Python Developer | Data Scientist Enthusiast**
+**Senior RPA Developer | Python Developer | Data Science Enthusiast**
 <!--
 **KishlaySingh/KishlaySingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
