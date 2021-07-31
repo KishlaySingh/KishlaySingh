@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to 
 -->
 
-**Connect with me:**
-[<img align="left" alt="Java" width="30px" src="https://www.bing.com/images/search?view=detailV2&ccid=bhVPgAcu&id=0A29EA70CD84ACB0E7A00B9E3B145873809EF6AC&thid=OIP.bhVPgAcuDxNBBew1WZ10pgHaHa&mediaurl=https%3a%2f%2fpngimg.com%2fuploads%2flinkedIn%2flinkedIn_PNG24.png&exph=1250&expw=1250&q=linkedn+image&simid=608018535741203478&FORM=IRPRST&ck=31DA51546F515E5BC0AC5B09455215FB&selectedIndex=0&ajaxhist=0&ajaxserp=0" />](www.linkedin.com/in/kishlaysingh27)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kishlay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishlay" height="30" width="40" /></a>
+<a href="https://kaggle.com/kishlay singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kishlay singh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kishlay singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kishlay singh" height="30" width="40" /></a>
+</p>
