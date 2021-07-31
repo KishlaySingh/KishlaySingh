@@ -1,4 +1,4 @@
-### Hi 👋, I'm Kishlay
+### Hey 👋, I'm Kishlay
 
 **Senior RPA Developer | Python Developer | Data Scientist Enthusiast**
 <!--
