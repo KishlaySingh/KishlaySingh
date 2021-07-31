@@ -1,4 +1,4 @@
-### Hey 👋, I'm Kishlay
+### Hey There👋, I'm Kishlay
 
 **Senior RPA Developer | Python Developer | Data Science Enthusiast**
 
@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/kishlaysingh27" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kishlay Singh" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/kishlaysingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kishlay singh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kishlaysingh27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kishlay singh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/k.i.s.h.l.a.y_s.i.n.g.h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kishlay singh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
