@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 -->
 
 **Connect with me:**
-[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
-[I'm an inline-style link](www.linkedin.com/in/kishlaysingh27)
+[<img align="left" alt="Java" width="30px" src="https://www.bing.com/images/search?view=detailV2&ccid=bhVPgAcu&id=0A29EA70CD84ACB0E7A00B9E3B145873809EF6AC&thid=OIP.bhVPgAcuDxNBBew1WZ10pgHaHa&mediaurl=https%3a%2f%2fpngimg.com%2fuploads%2flinkedIn%2flinkedIn_PNG24.png&exph=1250&expw=1250&q=linkedn+image&simid=608018535741203478&FORM=IRPRST&ck=31DA51546F515E5BC0AC5B09455215FB&selectedIndex=0&ajaxhist=0&ajaxserp=0" />](www.linkedin.com/in/kishlaysingh27)
