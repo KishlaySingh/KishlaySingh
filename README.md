@@ -6,6 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishlaysingh" alt="kishlaysingh" /></a> </p>
 
+- 🔭 I’m currently working on **Robotics Process Automation as a Senior Developer**
+
+- 🌱 I’m currently learning **Data Science**
+
+- 💬 Ask me about **RPA, Python, Statistics**
+
+- 📫 How to reach me **Kishlaysingh27@gmail.com**
+
+- ⚡ Fun fact **Gym Lover**
 <!--
 **KishlaySingh/KishlaySingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
