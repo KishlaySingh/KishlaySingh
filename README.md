@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishlaysingh&label=Profile%20views&color=0e75b6&style=flat" alt="kishlaysingh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishlaysingh" alt="kishlaysingh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishlaysingh=ryo-ma&theme=nord" alt="kishlaysingh" /></a> </p>
 
 - 🔭 I’m currently working on: **Robotics Process Automation as a Senior Developer**
 
