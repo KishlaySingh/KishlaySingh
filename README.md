@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishlaysingh&label=Profile%20views&color=0e75b6&style=flat" alt="kishlaysingh" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishlaysingh" alt="kishlaysingh" /></a> </p>
+
 <!--
 **KishlaySingh/KishlaySingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
